@@ -1,0 +1,10 @@
+{
+  "name": "11ty-ssg",
+  "version": "1.0.0",
+  "description": "11ty starter",
+  "main": "index.html",
+  "repository": "git@github.com:IvaTsu/11ty-ssg.git",
+  "author": "IvaTsu <ivan.tsud@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
