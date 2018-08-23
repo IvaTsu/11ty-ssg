@@ -40,4 +40,7 @@ Temporary Items
 # node_modules
 /node_modules
 
+# built files from SSG
+_site/
+
 # End of https://www.gitignore.io/api/macos,visualstudiocode
