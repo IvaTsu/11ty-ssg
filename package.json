@@ -7,6 +7,12 @@
   "author": "IvaTsu <ivan.tsud@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "build": "npx eleventy",
+    "watch": "npx eleventy --watch",
+    "debug": "DEBUG=* npx eleventy"
+  },
   "devDependencies": {
     "@11ty/eleventy": "^0.5.2"
   }
